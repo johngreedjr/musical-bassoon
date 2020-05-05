@@ -5,3 +5,5 @@
 
 
 new featureA
+
+feature B
