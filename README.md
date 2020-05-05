@@ -5,3 +5,6 @@
 
 
 new featureA
+
+
+feature C
