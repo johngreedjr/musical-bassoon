@@ -2,3 +2,5 @@
 
 
 #feature-A
+
+foo
